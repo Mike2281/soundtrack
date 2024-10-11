@@ -1,0 +1,33 @@
+body{
+    background: #000;
+}
+.container{
+    background: #fff;
+    width: 1449px;
+    height: 3818px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    width: 1380px;
+    height: 100px;
+    align-items: center;
+    justify-content: space-around;
+}
+} 
+.Sign{ 
+    background-color: #c5a576; 
+} 
+.Login{ 
+    background-color: #c5a576; 
+} 
+.Se{ 
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50%; 
+    background-color: #000; 
+    color: #fff; 
+    padding-left: 17px; 
+    padding-top: 10px; 
+     
+}
